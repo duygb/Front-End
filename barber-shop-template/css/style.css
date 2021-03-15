@@ -33,7 +33,7 @@ a:focus {
 .form-control:focus {
     box-shadow: none;
 }
-
+.top-bar 
 .container-fluid {
     max-width: 1366px;
 }
@@ -73,7 +73,7 @@ a:focus {
 .top-bar {
     position: relative;
     height: 60px;
-    background: #1d2434;
+    background: #100e0e;
 }
 
 .top-bar .top-bar-left {
@@ -218,7 +218,7 @@ a:focus {
     
     .navbar.nav-sticky {
         padding: 10px 60px;
-        background: #1d2434 !important;
+        background: #100e0e !important;
     }
     
     .navbar a.nav-link {
@@ -253,7 +253,7 @@ a:focus {
     width: 100%;
     margin-bottom: 45px;
     height: calc(100vh - 60px);
-    background: #D5B981;
+    background: #dbe635;
     overflow: hidden;
 }
 
