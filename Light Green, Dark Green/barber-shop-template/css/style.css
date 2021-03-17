@@ -621,16 +621,16 @@ a:focus {
     font-size: 16px;
     font-weight: 600;
     letter-spacing: 1px;
-    color: #4e5c6d;
-    border: 2px solid #4e5c6d;
+    color: #20342b;
+    border: 2px solid #20342b;
     border-radius: 0;
     background: none;
     transition: .3s;
 }
 
 .about .about-text a.btn:hover {
-    color: #D5B981;
-    background: #1d2434;
+    color: #ffffff;
+    background: #20342b;
 }
 
 @media (max-width: 767.98px) {
@@ -701,15 +701,15 @@ a:focus {
     padding: 10px 20px;
     font-size: 14px;
     font-weight: 600;
-    color: #1d2434;
-    border: 2px solid #1d2434;
+    color: #20342b;
+    border: 2px solid #20342b;
     border-radius: 0;
     background: none;
     transition: .3s;
 }
 
 .service .service-item:hover a.btn {
-    color: #D5B981;
+    color: #4e5c6d;
     background: #1d2434;
     border-color: #1d2434;
 }
