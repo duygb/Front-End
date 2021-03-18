@@ -1025,7 +1025,7 @@ a:focus {
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #1d2434;
+    color: #4e5c6d;
     transition: .3s;
 }
 
@@ -1034,7 +1034,7 @@ a:focus {
 }
 
 .blog .blog-item a.btn:hover {
-    color: #D5B981;
+    color: #3c633e;
 }
 
 .blog .owl-nav {
@@ -1071,8 +1071,8 @@ a:focus {
 
 .blog .pagination .page-link:hover,
 .blog .pagination .page-item.active .page-link {
-    color: #D5B981;
-    background: #1d2434;
+    color: #ffffff;
+    background: #4e5c6d;
 }
 
 .blog .pagination .disabled .page-link {
